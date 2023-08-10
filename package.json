@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-video-streaming",
+  "version": "1.0.0",
+  "description": "From a Linkedin course with Alex Banks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppaul/nodejs-video-streaming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppaul/nodejs-video-streaming/issues"
+  },
+  "homepage": "https://github.com/ppaul/nodejs-video-streaming#readme"
+}
